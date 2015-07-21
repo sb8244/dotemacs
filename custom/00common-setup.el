@@ -20,8 +20,8 @@
 
 ;; hide all the chrome.
 (setq inhibit-startup-message t)
-(setq user-mail-address "nhocki@gmail.com")
-(setq user-full-name "Nicolas Hock Isaza")
+(setq user-mail-address "steve.bussey@salesloft.com")
+(setq user-full-name "Stephen Bussey")
 
 ;; Show the trailing whitespace
 (setq-default show-trailing-whitespace t)
